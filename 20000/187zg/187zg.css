@@ -1,0 +1,33 @@
+
+.fl { float:left} 
+.mt10 { margin-left:10px;}
+.ml50 { margin-left:50px;}
+/*top*/
+
+.clearfix{zoom:1}
+.warp{width: 1200px; margin-left: auto; margin-right: auto;}
+.microHei{font-family:"Microsoft YaHei"}
+
+
+
+/*header*/
+#header{background:url(../images/brief_01.jpg) repeat-x;height: 126px;padding-top: 0; width:100%;}
+#header a.fl{height: 126px}
+#header .ban { float:right; width:50px; height:50px; margin-top:30px; filter:alpha(opacity=30);    -moz-opacity:0.3;    -khtml-opacity: 0.3;  opacity: 0.3;}
+#header #demo {overflow:hidden;height:50px; line-height:50px;width:800px; color:#d2d2ca;   white-space:nowrap; float:left; margin-top:30px; font-size:24px; margin-left:50px;}
+
+
+/* CSS Document */
+#Version{width:100%;height:750px;position:relative;overflow:hidden;}
+#Flash{width:1920px;height:750px;position:absolute;left:50%;margin:0px auto -272px -960px;z-index:1;}
+#Header{margin:0 auto -290px -960px;width:1920px;height:750px;position:relative;left:50%; background-image:187zg.jpg; background:url(187zg.jpg)}
+.hao123 { width:260px; height:20px; top:0px; left:50%; margin-left:350px; filter:alpha(opacity=30);    -moz-opacity:0.3;    -khtml-opacity: 0.3;  opacity: 0.3; position:absolute; z-index:5;  }
+
+
+
+
+
+
+
+
+

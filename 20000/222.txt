@@ -1,0 +1,5 @@
+.\data\lui.pkg		758953B47BDB3CCB57A5ECE562DFAA0C	http://www.kxx180.com:1988/GX/lui.txt
+.\bluem2_client.dat	6160D42776B115D55ED1892FD06BBD74	http://www.kxx180.com:1988/GX/bluem2_client.txt
+.\data\BLueMir2.dat	4938D9C6F94CBF7A0CE41B0A9E35E423	http://www.kxx180.com:1988/GX/data.zip
+.\map\3.map		AFD519CC0D5D4BB7FBA02BAFC1B35DC7	http://www.kxx180.com:1988/GX/map.zip
+.\BLueMir2.png		BF28F1C2B6AFDBE95D8A4FD92740F106	http://www.kxx180.com:1988/GX/BLueMir2.txt
